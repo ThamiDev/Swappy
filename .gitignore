@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+
+# Fichiers logs
+*.log
+
+# Base de données
+*.db
+
+# Fichiers Python compilés
+*.pyc
+*.pyo
+*.pyd
+
+# Répertoires de dépendances
+.idea/
+.vscode/
+
+# Variables d'environnement
+.env
+
+# Répertoire de migration Flask
+/migrations/
